@@ -5,3 +5,6 @@ Put data analysis skills into action throught some projects daily
 This project delves into the dynamic Airbnb market in New York City, examining trends, pricing dynamics, and factors that impact listing popularity.
 Through data science techniques and visualizations, our goal is to uncover insights into host and guest behaviors in one of the world's most dynamic hospitality markets.
   
+# 2)[Word Frequency Classic Novels].()
+In this project, I analyzed the word frequencies of classic novels using Python programming language.
+The goal was to gain insights into the most frequently used words in these literary works, offering a deeper understanding of their themes and styles.
