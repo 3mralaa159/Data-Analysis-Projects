@@ -12,7 +12,7 @@ The goal was to gain insights into the most frequently used words in these liter
 - What are the most frequent words in Herman Melville's novel Moby Dick and how often do they occur?
 ## 🔑 Key Features:
 - Implemented text processing techniques to tokenize and clean the text data.
-- Utilized Python libraries requests \ BeautifulSoup to extract \ edit online files
+- Utilized Python libraries requests \ BeautifulSoup to extract \ edit online files (web scrapping)
 - Utilized Python libraries such as NLTK and Seaborn for natural language processing and visualization.
 - Generated visualizations like bar plots to display the top words and their frequencies.
 - Applied basic statistical analysis to extract meaningful insights from the data.
