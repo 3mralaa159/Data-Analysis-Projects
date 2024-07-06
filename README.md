@@ -17,7 +17,7 @@ The goal was to gain insights into the most frequently used words in these liter
 - Generated visualizations like bar plots to display the top words and their frequencies.
 - Applied basic statistical analysis to extract meaningful insights from the data.
 
-# 3)[Exploring the Bitcoin Cryptocurrency Market]()
+# 3)[Exploring the Bitcoin Cryptocurrency Market](https://github.com/3mralaa159/Data-Analysis-Projects/tree/main/Exploring%20the%20Bitcoin%20Cryptocurrency%20Market)
 the project dedicated to exploring the dynamic world of Bitcoin, the pioneering cryptocurrency that has revolutionized finance and technology.
 This project aims to provide insights, tools, and resources for anyone interested in understanding Bitcoin's market trends, price movements, and underlying technologies.
 ## Question
