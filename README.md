@@ -27,3 +27,18 @@ This project aims to provide insights, tools, and resources for anyone intereste
 - Apply some cleaning for dataset
 - Analyze Bitcoin's price movements over time, including daily, weekly trends by combining user defined function and matplot
 - Track and analyze trading volumes and market capitalization changes to understand market liquidity and investor sentiment.
+
+# 4) Analyze Your Runkeeper Fitness Data
+In an age where personal fitness is increasingly data-driven, understanding and analyzing our exercise habits can provide valuable insights into our health and progress. The "Analyze Your Runkeeper Fitness Data" project aims to delve deep into the wealth of information captured by the popular Runkeeper app. By exploring this data, participants can uncover patterns, trends, and correlations that illuminate their running and fitness journey. From tracking distances and speeds to visualizing progress over time, this project offers a hands-on opportunity to harness data analytics for personal health improvement. Whether you're an avid runner seeking to optimize performance or simply curious about your fitness patterns, this project invites you to explore the intersection of technology and personal wellness through data analysis.
+## Questions
+- What is your average distance?
+- How fast do you run?
+- Do you measure your heart rate?
+- How often do you train?
+- Training Heart zones.?
+- Goals status
+## 🔑 Key Features:
+- putting matplotlib into action with more depth to explore data and answer different questions
+- applying cleaning skills to perfectly analyze dataset
+- TimeSeries analysis
+- Summarize outcome of analysis by concatenating all table together 
