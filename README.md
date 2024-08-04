@@ -41,4 +41,12 @@ In an age where personal fitness is increasingly data-driven, understanding and 
 - putting matplotlib into action with more depth to explore data and answer different questions
 - applying cleaning skills to perfectly analyze dataset
 - TimeSeries analysis
-- Summarize outcome of analysis by concatenating all table together 
+- Summarize outcome of analysis by concatenating all table together
+
+# 5) [Visualizing COVID-19].()
+The COVID-19 pandemic has significantly impacted global health, economies, and daily life. To understand and mitigate its effects, data visualization plays a crucial role in presenting complex data in an accessible and comprehensible manner. This project aims to provide a comprehensive analysis of COVID-19 data through various visualization techniques, enabling better insights and decision-making.
+## 🔑 Key Features:
+- Using OOP and lambda to help Transform data to better understanding
+- Moving from matplotlib to plotly_express for more visualization options
+- Using new library pycountry to help extract information from data
+- Applying some cleaning / transformation along the project 
