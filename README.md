@@ -43,7 +43,7 @@ In an age where personal fitness is increasingly data-driven, understanding and 
 - TimeSeries analysis
 - Summarize outcome of analysis by concatenating all table together
 
-# 5) [Visualizing COVID-19].(https://github.com/3mralaa159/Data-Analysis-Projects/tree/main/Visualizing%20COVID-19)
+# 5) [Visualizing COVID-19](https://github.com/3mralaa159/Data-Analysis-Projects/tree/main/Visualizing%20COVID-19)
 The COVID-19 pandemic has significantly impacted global health, economies, and daily life. To understand and mitigate its effects, data visualization plays a crucial role in presenting complex data in an accessible and comprehensible manner. This project aims to provide a comprehensive analysis of COVID-19 data through various visualization techniques, enabling better insights and decision-making.
 ## 🔑 Key Features:
 - Using OOP and lambda to help Transform data to better understanding
