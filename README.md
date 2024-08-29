@@ -39,3 +39,12 @@ The COVID-19 pandemic has significantly impacted global health, economies, and d
 - Moving from matplotlib to plotly_express for more visualization options
 - Using new library pycountry to help extract information from data
 - Applying some cleaning / transformation along the project 
+
+# 6)[Insights from Failed Orders](https://github.com/3mralaa159/Data-Analysis-Projects/tree/main/Insights%20from%20Failed%20Orders)
+In this project, we delve into the analysis of order failures within a logistics system. By examining two key datasets—data_orders, which details the specifics of each order, and data_offers, which links orders to offers—we aim to uncover insights into the reasons behind order cancellations and rejections. Our focus is to build a comprehensive understanding of failure distribution, analyze temporal patterns, and assess cancellation times based on driver assignment. The ultimate goal is to identify trends and anomalies that can inform strategies to reduce failure rates and enhance overall operational efficiency.
+## 🔑 Key Features:
+- Failure Distribution Insight: Identifying and categorizing order failures provides a clear view of the most common reasons for cancellations and rejections, which can help prioritize areas for improvement.
+- Temporal Patterns: Analyzing the distribution of failed orders by hour reveals peak times with higher failure rates, helping to target specific times for process optimization or resource allocation.
+- Impact of Driver Assignment: Comparing cancellation times with and without driver assignments highlights the effects of driver involvement on order outcomes, providing valuable insights into driver-related issues.
+- Data Anomalies: Recognizing outliers in cancellation times helps in understanding exceptional cases that could skew average values and may necessitate further investigation or corrective measures.
+- Strategic Improvements: The findings from these analyses can guide strategic adjustments, such as operational changes or targeted interventions, to enhance overall efficiency and reduce failure rates in the logistics system.
